@@ -1,8 +1,7 @@
 # Table of contents
 
 * [前言](README.md)
-* [数字营销技术应用(中级)](shu-zi-ying-xiao-ji-shu-ying-yong-zhong-ji.md)
 
-## Group 1
+## man <a href="#shuziyingxiao" id="shuziyingxiao"></a>
 
-* [Page 1](group-1/page-1.md)
+* [数字营销技术应用(中级)](shuziyingxiao/shu-zi-ying-xiao-ji-shu-ying-yong-zhong-ji.md)
