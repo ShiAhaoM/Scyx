@@ -1,8 +1,19 @@
 ---
 description: 市场营销-数字营销技术应用(中级)
+layout:
+  title:
+    visible: false
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
-# index
+# s
 
 项目1 数字广告营销策划&#x20;
 

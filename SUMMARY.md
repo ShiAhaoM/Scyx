@@ -4,4 +4,4 @@
 
 ## man <a href="#shuziyingxiao" id="shuziyingxiao"></a>
 
-* [index](shuziyingxiao/index.md)
+* [s](shuziyingxiao/s.md)
