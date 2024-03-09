@@ -1,5 +1,4 @@
 ---
-description: 市场营销技术应用(中级)
 layout:
   title:
     visible: false
